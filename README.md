@@ -8,6 +8,7 @@ Cataclysm version.
 
 - Python 3.12 or higher
 - A good CPU (or a GPU with CUDA if you want to update the code to use CUDA)
+- 1.8Go of disk
 
 ## Setup
 
